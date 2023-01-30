@@ -1,0 +1,13 @@
+#main{
+	
+}
+
+#main .privacy{
+	margin: auto;
+  	width: 50%;
+  	padding: 10px;
+}
+
+#main .privacy h2{
+	color: #40003A;
+}
